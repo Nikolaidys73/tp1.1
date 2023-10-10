@@ -1,0 +1,14 @@
+C:\Users\Nico\source\repos\tp1.1\bin\Debug\net7.0\tp1.1.exe
+C:\Users\Nico\source\repos\tp1.1\bin\Debug\net7.0\tp1.1.deps.json
+C:\Users\Nico\source\repos\tp1.1\bin\Debug\net7.0\tp1.1.runtimeconfig.json
+C:\Users\Nico\source\repos\tp1.1\bin\Debug\net7.0\tp1.1.dll
+C:\Users\Nico\source\repos\tp1.1\bin\Debug\net7.0\tp1.1.pdb
+C:\Users\Nico\source\repos\tp1.1\obj\Debug\net7.0\tp1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\source\repos\tp1.1\obj\Debug\net7.0\tp1.1.AssemblyInfoInputs.cache
+C:\Users\Nico\source\repos\tp1.1\obj\Debug\net7.0\tp1.1.AssemblyInfo.cs
+C:\Users\Nico\source\repos\tp1.1\obj\Debug\net7.0\tp1.1.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\tp1.1\obj\Debug\net7.0\tp1.1.dll
+C:\Users\Nico\source\repos\tp1.1\obj\Debug\net7.0\refint\tp1.1.dll
+C:\Users\Nico\source\repos\tp1.1\obj\Debug\net7.0\tp1.1.pdb
+C:\Users\Nico\source\repos\tp1.1\obj\Debug\net7.0\tp1.1.genruntimeconfig.cache
+C:\Users\Nico\source\repos\tp1.1\obj\Debug\net7.0\ref\tp1.1.dll
